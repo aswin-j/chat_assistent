@@ -1,3 +1,4 @@
+#! pip install langchain
 import os
 import openai
 import sys
